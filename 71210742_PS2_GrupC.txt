@@ -1,0 +1,12 @@
+Pertanyaan 
+Ember mana yang akan terisi lebih dahulu(ember A,ember B, ember C,ember D)?
+
+Jawaban
+Ember yang akan terisi lebih dahulu adalah ember A
+
+Air yang berasal dari loteng akan di tampung dahulu pada tampungan paling atas
+lalu setelah tampungan paling atas. Jika tampungan tersebut sudah terpenuhi
+maka air akan jatuh ke tampungan kiri karena saluran di kiri lebih rendah daripada
+saluran di kanan, sehingga tampungan di kiri akan lebih dahulu terpenuhi daripada 
+tampungan di bawah. Tampungan di kiri akan mengalirkan air ke ember A maka daripada
+itu ember A akan terisi lebih dahulu daripada ember lainnya.
