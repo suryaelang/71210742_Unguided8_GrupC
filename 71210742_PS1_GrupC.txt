@@ -1,0 +1,36 @@
+Soal 
+4001+4002+4003+......+5998+5999+6000 = ?
+
+Jawab
+Soal diatas dapat di selesaikan dengan rumus aritmatika: Sn=n/2(2a+(n-1)b)
+
+Menginisiasi variabel a
+a = 4001
+
+Menginisiasi variabel b
+b = Un2-Un1 = ?
+b = 4002-4001 = 1
+
+Menginisiasi variabel n
+Un = a+(n-1)b
+6000 = 4001+(n-1)1
+6000 = 4001+n-1
+6000 = 4000+n
+6000-4000 = n
+n = 2000
+
+Memasukan variabel ke dalam rumus aritmatika
+Sn = 2000/2(2*4001+(2000-1)1)                                   
+Sn = 1000(8002+(1999))
+Sn = 1000(10.001)
+Sn = 10.001.000
+
+Pseudocode
+-if a sama dengan Un1
+	tampilkan "Masukkan ke dalam rumus aritmatika"
+ else 
+	tampilkan "Variabel a Salah!"
+-if b sama dengan selisih dari Un2 dan Un1
+	tampilkan "Masukkan kedalam rumus aritmatika"
+ else
+	tampilkan "Variabel b Salah!"
